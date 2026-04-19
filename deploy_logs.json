@@ -1,0 +1,15 @@
+{
+  "result": {
+    "total": 1,
+    "includes_container_logs": false,
+    "data": [
+      {
+        "ts": "2026-04-05T05:27:08.106129Z",
+        "line": "Success: Your site was deployed!"
+      }
+    ]
+  },
+  "success": true,
+  "errors": [],
+  "messages": []
+}

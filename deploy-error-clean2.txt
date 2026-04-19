@@ -1,0 +1,12 @@
+
+ ⛅️ wrangler 4.76.0 (update available 4.78.0)
+─────────────────────────────────────────────
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe request to Cloudflare's API timed out.[0m
+
+  This is likely due to network connectivity issues or slow network speeds.
+  Please check your internet connection and try again.
+
+
+🪵  Logs were written to "C:\Users\Administrador\AppData\Roaming\xdg.config\.wrangler\logs\wrangler-2026-03-28_02-20-15_007.log"
