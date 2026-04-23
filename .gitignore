@@ -2,3 +2,6 @@ node_modules/
 .next/
 .open-next/
 .env.local
+
+deployments_list.json
+wrangler_config.toml
