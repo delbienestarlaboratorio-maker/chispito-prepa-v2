@@ -5,3 +5,7 @@ node_modules/
 
 deployments_list.json
 wrangler_config.toml
+
+.wrangler/
+.env.*
+deployments_list.*
